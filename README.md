@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanjaysalapare
-- 👀 I’m interested in Sports, Anime, and Gaming
+- 👀 I’m interested in Sports, Anime, Gaming, and Church Activities
 - 🌱 I’m currently learning Software Development at Mohawk College
 - 💞️ I’m looking to collaborate mostly on Web Development. I find that I am more interested in it compared to other areas of Software Development
 - 📫 How to reach me 
