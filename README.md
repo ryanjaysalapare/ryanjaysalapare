@@ -3,7 +3,7 @@
 - 🌱 I just finished a 2 Year Software Development Program at Mohawk College
 - 💞️ I’m looking to collaborate mostly on Web Development. I find that I am more interested in it compared to other areas of Software Development
 - 📫 How to reach me 
-                      - You can reach me via email @ryanajaysalapare@gmail.com
+                      - You can reach me via email @ryanjaysalapare@gmail.com
 
 <!---
 ryanjaysalapare/ryanjaysalapare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
